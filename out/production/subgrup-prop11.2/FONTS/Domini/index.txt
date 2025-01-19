@@ -1,0 +1,10 @@
+En este directorio se encuentran los archivos que representan las clases de la capa de dominio, con cualquier codigo auxiliar que hayamos utilizado.
+
+- Producto.java: Representa un producto en el inventario, incluyendo sus atributos y métodos para manipularlos.
+- Inventario.java: Gestiona la colección de productos, permitiendo añadir, eliminar y buscar productos.
+- Distribucion.java: Representa una distribución de productos en el sistema de almacenamiento, calculada usando uno de los dos algoritmos.
+- Estanteria.java: Gestiona los estantes del sistema de almacenamiento, incluyendo la capacidad y la disposición de los productos.
+- Relacion.java: Gestiona las relaciones de similitud entre productos, permitiendo actualizar y consultar estas relaciones.
+- Algoritmo.java: Implementa el algoritmo de recomendacion de distribucion de productos basado en relaciones de similitud.
+- AlgoritmoAproximacion.java: Implementa una versión optimizada del algoritmo de recomendacion de distribución de productos.
+- AlgoritmoFuerzaBruta.java: Implementa un algoritmo de fuerza bruta para hacer el calculo de la distribucion de productos.

@@ -1,0 +1,6 @@
+manzana,comida,rojo
+platano,comida,amarillo
+kiwi,comida,verde
+naranja,comida,naranja
+pera,comida,verde
+uva,comida,morado
