@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"FONTS"},{"l":"FONTS.Domini"},{"l":"FONTS.Domini.ControladorsDomini"},{"l":"FONTS.Persistencia"},{"l":"FONTS.Persistencia.CtrlPersistencia"},{"l":"FONTS.Presentacio.ControladorsPresentacio"},{"l":"FONTS.Presentacio.Vistas"},{"l":"FONTS.Utils"}];updateSearchResults();

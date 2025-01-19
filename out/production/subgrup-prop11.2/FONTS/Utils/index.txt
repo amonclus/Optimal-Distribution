@@ -1,7 +1,0 @@
-Este directorio contiene varias clases de utilidad general.
-
->Arista: Clase que representa una arista de un grafo.
-
->ButtonUtils: Clase que contiene métodos para crear botones personalizados.
-
->Pair: Clase que representa un par de objetos.

@@ -1,5 +1,0 @@
->CtrlDomini: Clase que funciona como controlador de la capa de dominio. Delega las funcionalidades a los otros controladores de
-dominio, cada uno de los cuales se encarga de controlar un aspecto del programa.
->CtrlEstanteria: Clase controladora de las funcionalidades de la estantería.
->CtrlInventario: Clase controladora de las funcionalidades del inventario y los productos.
->CtrlRestricción: Clase controladora de las restricciones de los productos en las distribuciones.

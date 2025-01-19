@@ -1,1 +1,0 @@
-D1,true,0:platano;1:kiwi;2:manzana;3:naranja;4:pera;5:uva;,
